@@ -37,7 +37,7 @@ pip install transformers llm python-dotenv langchain
 1.	Clone this repository to your local machine:
    
 ```bash
-git clone https://github.com/yourusername/gpt2-text-generation.git
+git clone https://github.com/mrnithish/gpt2-medium-llm-huggingface.git
 ```
 2.	Navigate to the project directory:
 
